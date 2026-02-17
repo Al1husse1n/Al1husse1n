@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Ali Hussein
 
-**Full-stack dev • ML/AI curious**
+**Full-stack dev • ML/AI enthusiast**
 
 Currently building things that mix real problems with code + a bit of intelligence.
 
